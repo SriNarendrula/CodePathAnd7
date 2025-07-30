@@ -10,7 +10,7 @@ Time spent: **2 1/2** hours spent in total
 
 **Adventure** is an android app that that displays a scrollable list of characters from the pokemon API
 
-If I had to describe this project in three (3) emojis, they would be: **emojis here**
+If I had to describe this project in three (3) emojis, they would be: **🎮⚡📱**
 
 ## Application Features
 
@@ -37,14 +37,12 @@ The following EXTRA features are implemented:
 
 Here's a video / GIF that demos all of the app's implemented features:
 
-<img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Demo' width='' alt='Video Demo' />
-
+[<img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Demo' width='' alt='Video Demo' />
+](https://submissions.us-east-1.linodeobjects.com/and101/I7iRZ-_1.gif)
 GIF created with **your chosen GIF tool**
 
-<!-- Recommended tools:
+
 - [Kap](https://getkap.co/) for macOS
-- [ScreenToGif](https://www.screentogif.com/) for Windows
-- [peek](https://github.com/phw/peek) for Linux. -->
 
 ## Notes
 
@@ -52,7 +50,7 @@ Here's a place for any other notes on the app, it's creation process, or what yo
 
 ## License
 
-Copyright **yyyy** **your name**
+Copyright **2025** **Sri Narendrula**
 
 Licensed under the Apache License, Version 2.0 (the "License");
 you may not use this file except in compliance with the License.
