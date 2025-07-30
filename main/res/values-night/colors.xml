@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Dark Mode Context-aware colors -->
+    <color name="pokemon_name_color">@color/pokemon_gold</color>
+    <color name="pokemon_details_color">@color/light_text</color>
+    <color name="card_background">@color/dark_surface</color>
+</resources>
